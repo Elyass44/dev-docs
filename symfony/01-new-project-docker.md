@@ -84,15 +84,11 @@ chmod +x docker/entrypoint.sh
 
 ## 5. Configuration
 
-### Create `.env.local` file
+### Edit `.env.dev` file
 
 ```bash
-APP_ENV=dev
-
-# Database (adjust if needed)
 DATABASE_URL=postgresql://db_user:db_password@postgres:5432/db_name?serverVersion=16&charset=utf8
 
-# Mailer
 MAILER_DSN=smtp://mailpit:1025
 ```
 
