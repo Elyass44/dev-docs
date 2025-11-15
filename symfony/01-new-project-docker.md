@@ -73,7 +73,7 @@ Copy these template files to your project:
 2. **[Dockerfile](../templates/docker/Dockerfile)** → `docker/Dockerfile`
 3. **[nginx.conf](../templates/docker/nginx.conf)** → `docker/nginx.conf`
 4. **[entrypoint.sh](../templates/docker/entrypoint.sh)** → `docker/entrypoint.sh`
-5. **[Makefile](../templates/Makefile)** → project root
+5. **[Makefile](../templates/docker/Makefile)** → project root
 
 **Important:** Make entrypoint executable:
 ```bash
