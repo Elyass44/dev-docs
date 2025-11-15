@@ -52,7 +52,7 @@ This creates:
 bin/console make:command app:create-user
 ```
 
-For a complete user creation command template, see: [CreateUserCommand.php](../../templates/symfony/CreateUserCommand.php)
+For a complete user creation command template, see: [CreateUserCommand.php](../templates/symfony/CreateUserCommand.php)
 
 Run it:
 ```bash
