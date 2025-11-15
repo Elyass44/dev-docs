@@ -69,11 +69,11 @@ Copy these template files to your project:
 
 ### Templates available at: `~/dev-docs/templates/`
 
-1. **[compose.yaml](../../templates/docker/compose.yaml)** → project root
-2. **[Dockerfile](../../templates/docker/Dockerfile)** → `docker/Dockerfile`
-3. **[nginx.conf](../../templates/docker/nginx.conf)** → `docker/nginx.conf`
-4. **[entrypoint.sh](../../templates/docker/entrypoint.sh)** → `docker/entrypoint.sh`
-5. **[Makefile](../../templates/Makefile)** → project root
+1. **[compose.yaml](../templates/docker/compose.yaml)** → project root
+2. **[Dockerfile](../templates/docker/Dockerfile)** → `docker/Dockerfile`
+3. **[nginx.conf](../templates/docker/nginx.conf)** → `docker/nginx.conf`
+4. **[entrypoint.sh](../templates/docker/entrypoint.sh)** → `docker/entrypoint.sh`
+5. **[Makefile](../templates/Makefile)** → project root
 
 **Important:** Make entrypoint executable:
 ```bash
