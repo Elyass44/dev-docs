@@ -10,7 +10,7 @@ Personal development documentation, workflows, and setup guides for web developm
 - [WSL + Zsh + Docker + Symfony CLI](./setup/wsl-symfony-environment.md) - Complete development environment setup on Windows
 
 ### Symfony Workflows *(Coming soon)*
-1. New Project + Docker Setup
+1. [New Project + Docker Setup](./symfony/01-new-project-docker.md)
 2. Bootstrap 5 Integration
 3. BaseApiController Setup
 4. JWT Authentication + Refresh Tokens
