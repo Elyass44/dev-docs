@@ -157,6 +157,11 @@ make stop
 
 ---
 
+## 10. Git setup (Optional)
+See full doc here : 📄 [Github & Git setup](https://github.com/Elyass44/dev-docs/blob/main/setup/github-project-git-setup.md)
+
+---
+
 ## Troubleshooting
 
 ### Check logs:
