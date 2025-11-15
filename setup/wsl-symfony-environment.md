@@ -4,7 +4,7 @@ Complete guide to setting up a modern development environment with WSL, Oh My Zs
 
 ---
 
-## 1. Install Cmder
+## 1. Install Cmder (Optional)
 
 1. Download Cmder from [cmder.app](https://cmder.app/)
 2. Extract and run Cmder
@@ -36,7 +36,7 @@ After restart, set up your Linux username and password when prompted.
 
 ---
 
-## 3. Install Oh My Zsh
+## 3. Install Oh My Zsh (Optional)
 
 Inside WSL:
 
