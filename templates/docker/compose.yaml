@@ -50,7 +50,7 @@ services:
   # DB Browser (adminer here but you can use any)
   adminer:
     image: adminer
-    container_name: pulse_budget_adminer
+    container_name: project_adminer
     ports:
       - "8081:8080"
     networks:
