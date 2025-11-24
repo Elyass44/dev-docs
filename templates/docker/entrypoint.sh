@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Wait for PostgreSQL to be ready
-until pg_isready -h postgres -U pulse_user > /dev/null 2>&1; do
+until pg_isready -h postgres -U db_user > /dev/null 2>&1; do
   echo "Waiting for PostgreSQL..."
   sleep 2
 done
