@@ -93,6 +93,7 @@ MAILER_DSN=smtp://mailpit:1025
 ```
 
 **Note:** Adjust database credentials to match your `compose.yaml`
+
 **Note:** remove the `compose.override.yaml` file added by Symfony
 
 ---
